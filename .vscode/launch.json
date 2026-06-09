@@ -1,0 +1,71 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Guys",
+            "request": "launch",
+            "mainClass": "java_language.Guys",
+            "projectName": "Desktop_7ada75d1"
+        },
+        {
+            "type": "java",
+            "name": "Guys",
+            "request": "launch",
+            "mainClass": "Guys",
+            "projectName": "Desktop_7ada75d1"
+        },
+        {
+            "type": "java",
+            "name": "hello",
+            "request": "launch",
+            "mainClass": "hello",
+            "projectName": "Desktop_7ada75d1"
+        },
+        {
+            "type": "java",
+            "name": "hello",
+            "request": "launch",
+            "mainClass": "java.hello",
+            "projectName": "Desktop_7ada75d1"
+        },
+        {
+            "type": "java",
+            "name": "Average",
+            "request": "launch",
+            "mainClass": "Average",
+            "projectName": "Desktop_7ada75d1"
+        },
+        {
+            "type": "java",
+            "name": "Calculator",
+            "request": "launch",
+            "mainClass": "Calculator",
+            "projectName": "Desktop_7ada75d1"
+        },
+        {
+            "type": "java",
+            "name": "Main",
+            "request": "launch",
+            "mainClass": "Main",
+            "projectName": "Desktop_7ada75d1"
+        },
+        {
+            "type": "java",
+            "name": "greater",
+            "request": "launch",
+            "mainClass": "greater",
+            "projectName": "Desktop_7ada75d1"
+        },
+        {
+            "type": "java",
+            "name": "Hello",
+            "request": "launch",
+            "mainClass": "Hello",
+            "projectName": "Desktop_7ada75d1"
+        }
+    ]
+}
